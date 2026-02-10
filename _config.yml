@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuzhe Ding"
-description              : "I am currently pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Wuhan University, China. My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner."
+# description              : "I am currently pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Wuhan University, China. My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner."
 # repository               : "RayeRen/acad-homepage.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ description              : "I am currently pursuing a Ph.D. degree at the School
 # Site Author
 author:
   name             : "Yuzhe Ding"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/dyz.JPG"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
   # employer         :
