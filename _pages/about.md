@@ -17,42 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. degree at the School of Cyber Science and Engineering, Wuhan University, China. My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner.
+I am a currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji] (https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li] (https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner.
 
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing 2025.
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026. 
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
+- *2024.12*: &nbsp;🎉🎉 One papers are accepted by ICASSP 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Zero-Shot Conversational Stance Detection: Dataset and Approaches**
+**Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
+[**Paper**](https://aclanthology.org/2025.findings-acl.168.pdf) [**code**](https://github.com/whu-yzding/ZS-CSD)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+<!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - now*, Phd, School of Cyber Science and Engineering, Wuhan University, Wuhan. 
+- *2021.09 - 2023.06*, Master, School of Cyber Science and Engineering, Wuhan University, Wuhan.
+- *2017.09 - 2021.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan Univeristy, Wuhan.
 
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
