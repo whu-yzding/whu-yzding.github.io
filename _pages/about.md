@@ -61,8 +61,6 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
   
   Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
   
-  [code]()
-  
   </div>
 </div>
 
