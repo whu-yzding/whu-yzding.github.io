@@ -1,20 +1,3 @@
-<img width="1476" height="648" alt="image" src="https://github.com/user-attachments/assets/2081a3dc-a645-4a6f-affb-85ba0104e9ce" />---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am a currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji] (https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li] (https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner.
@@ -29,40 +12,6 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
 - *2024.12*: &nbsp;🎉🎉 One papers are accepted by ICASSP 2025.
 
 # 📝 Publications 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TAFFC 2025</div>
-      <img src='images/TAFFC2025.jpg' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    
-  [Improving Emotion and Intent Understanding in Multimodal Conversations with Progressive Interaction](https://ieeexplore.ieee.org/abstract/document/11300961)
-  
-  Li Zheng, Tengyue Song, **Yuzhe Ding**, Xiaorui Wu, Fei Li, Dongdong Xie, Jinbo Li, Chong Teng, Donghong Ji
-  
-  [code](https://anonymous.4open.science/r/MEI-Pro)
-  
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AAAI 2026</div>
-      <img src='images/AAAI-2026.jpg' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    
-  [PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585)
-  
-  Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
-  
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
