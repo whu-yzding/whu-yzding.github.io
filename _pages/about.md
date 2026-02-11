@@ -30,24 +30,33 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2025</div>
+      <img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Zero-Shot Conversational Stance Detection: Dataset and Approaches**
+  **Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
+  [**Paper**](https://aclanthology.org/2025.findings-acl.168.pdf) [**code**](https://github.com/whu-yzding/ZS-CSD)
+  </div>
+</div>
 
-**Zero-Shot Conversational Stance Detection: Dataset and Approaches**
-
-**Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
-
-[**Paper**](https://aclanthology.org/2025.findings-acl.168.pdf) [**code**](https://github.com/whu-yzding/ZS-CSD)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL-DALR.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning**
-
-Kang He, **Yuzhe Ding**, Haining Wang, Fei Li, Chong Teng, Donghong Ji
-
-[**Paper**](https://aclanthology.org/2025.findings-acl.183.pdf) [**code**](https://github.com/kangverse/DALR)
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2025</div>
+      <img src='images/ACL-DALR.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning**
+  Kang He, **Yuzhe Ding**, Haining Wang, Fei Li, Chong Teng, Donghong Ji
+  [**Paper**](https://aclanthology.org/2025.findings-acl.183.pdf) [**code**](https://github.com/kangverse/DALR)
+  </div>
+</div>
 
 
 <!--
