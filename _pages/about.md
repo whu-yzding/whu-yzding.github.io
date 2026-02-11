@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji] (https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li] (https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner.
+I am a currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner.
 
 
 
