@@ -27,15 +27,17 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
 - *2024.12*: &nbsp;🎉🎉 One papers is accepted by ICASSP 2025.
 
-# 📝 Publications 
+# Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2512</div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future](https://arxiv.org/pdf/2512.19537)
+Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future
 
 Bobo Li, Xudong Han, Jiang Liu, **Yuzhe Ding**, Liqiang Jing, Zhaoqi Zhang, Jinheng Li,
 Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
+
+[Paper](https://arxiv.org/pdf/2512.19537) [Code](https://github.com/unikcc/AwesomeEventExtraction) *Arxiv 2025*
 
 </div>
 </div>
@@ -73,10 +75,10 @@ Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL-DALR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL-DALR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning](https://aclanthology.org/2025.findings-acl.183.pdf)
+[DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning](https://aclanthology.org/2025.findings-acl.183.pdf)(ACL 2025 )
 
 Kang He, **Yuzhe Ding**, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
