@@ -43,7 +43,7 @@ Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/TAFFC2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TAFFC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Improving Emotion and Intent Understanding in Multimodal Conversations with Progressive Interaction**
