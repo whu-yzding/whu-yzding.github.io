@@ -32,69 +32,76 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future
+**Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future**
 
 Bobo Li, Xudong Han, Jiang Liu, **Yuzhe Ding**, Liqiang Jing, Zhaoqi Zhang, Jinheng Li,
 Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
 
-[Paper](https://arxiv.org/pdf/2512.19537) [Code](https://github.com/unikcc/AwesomeEventExtraction) *Arxiv 2025*
+[Paper](https://arxiv.org/pdf/2512.19537) [Code](https://github.com/unikcc/AwesomeEventExtraction) (**Arxiv 2025**)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2025</div><img src='images/TAFFC2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/TAFFC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improving Emotion and Intent Understanding in Multimodal Conversations with Progressive Interaction](https://ieeexplore.ieee.org/abstract/document/11300961)
+**Improving Emotion and Intent Understanding in Multimodal Conversations with Progressive Interaction**
 
 Li Zheng, Tengyue Song, **Yuzhe Ding**, Xiaorui Wu, Fei Li, Dongdong Xie, Jinbo Li, Chong Teng, Donghong Ji
 
+[Paper](https://ieeexplore.ieee.org/abstract/document/11300961) [Code](https://anonymous.4open.science/r/MEI-Pro) (**TAFFC 2025**)
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI-2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI-2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis](https://arxiv.org/abs/2511.17585)
+**PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis**
 
 Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 
+[Paper](https://arxiv.org/abs/2511.17585) [Code]() (**AAAI 2026**)
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Zero-Shot Conversational Stance Detection: Dataset and Approaches](https://aclanthology.org/2025.findings-acl.168.pdf)
+**Zero-Shot Conversational Stance Detection: Dataset and Approaches**
 
 **Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
 
-[**Code**](https://github.com/whu-yzding/ZS-CSD) 
+[Paper](https://aclanthology.org/2025.findings-acl.168.pdf) [Code](https://github.com/whu-yzding/ZS-CSD) (**ACL 2025 Findings**)
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL-DALR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning](https://aclanthology.org/2025.findings-acl.183.pdf)(ACL 2025 )
+**DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning**
 
 Kang He, **Yuzhe Ding**, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
-[**Code**](https://github.com/kangverse/DALR) 
+[Paper](https://aclanthology.org/2025.findings-acl.183.pdf) [Code](https://github.com/kangverse/DALR) (**ACL 2025 Findings**)
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_HDC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICASSP_HDC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Harnessing Dimensional Contrast and Information Compensation for Sentence Embedding Enhancement](https://ieeexplore.ieee.org/abstract/document/10887581)
+**Harnessing Dimensional Contrast and Information Compensation for Sentence Embedding Enhancement**
 
 Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
-[**Code**](https://github.com/Hekang001/MSSE) 
+[Paper](https://ieeexplore.ieee.org/abstract/document/10887581) [Code](https://github.com/Hekang001/MSSE) (**ICASSP 2025**)
+
 </div>
 </div>
 
