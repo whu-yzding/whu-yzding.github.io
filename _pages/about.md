@@ -27,7 +27,7 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
 - *2024.12*: &nbsp;🎉🎉 One papers is accepted by ICASSP 2025.
 
-# Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -110,4 +110,12 @@ Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 - *2023.06 - now*, Phd, School of Cyber Science and Engineering, Wuhan University, Wuhan. 
 - *2021.09 - 2023.06*, Master, School of Cyber Science and Engineering, Wuhan University, Wuhan.
 - *2017.09 - 2021.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan Univeristy, Wuhan.
+
+# 📝 Academic Services
+
+**Conference Reviewer/Program Committee Member:** COLING2025, ACMMM2025, AAAI2026, ACL2026
+
+**Journal Reviewer:** Neurocomputing
+
+
 
