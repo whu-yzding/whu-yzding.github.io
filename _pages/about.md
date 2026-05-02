@@ -30,6 +30,16 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Dynamic Emotion and Personality Profiling for Multimodal Deception Detection**
+  
+Li Zheng, Yanyi Luo, Hao Fei, **Yuzhe Ding**, Yujie Huang, Fei Li, Chong Teng, Donghong Ji
+
+[Paper](https://arxiv.org/abs/2604.17037) [Code]() (**ACL 2026**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**
@@ -54,66 +64,54 @@ Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TAFFC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Improving Emotion and Intent Understanding in Multimodal Conversations with Progressive Interaction**
 
 Li Zheng, Tengyue Song, **Yuzhe Ding**, Xiaorui Wu, Fei Li, Dongdong Xie, Jinbo Li, Chong Teng, Donghong Ji
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/11300961) [Code](https://anonymous.4open.science/r/MEI-Pro) (**TAFFC 2025**)
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI-2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis**
 
 Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 
 [Paper](https://arxiv.org/abs/2511.17585) [Code]() (**AAAI 2026**)
-
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Zero-Shot Conversational Stance Detection: Dataset and Approaches**
 
 **Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
 
 [Paper](https://aclanthology.org/2025.findings-acl.168.pdf) [Code](https://github.com/whu-yzding/ZS-CSD) (**ACL 2025 Findings**)
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL-DALR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning**
 
 Kang He, **Yuzhe Ding**, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
 [Paper](https://aclanthology.org/2025.findings-acl.183.pdf) [Code](https://github.com/kangverse/DALR) (**ACL 2025 Findings**)
-
 </div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ICASSP_HDC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Harnessing Dimensional Contrast and Information Compensation for Sentence Embedding Enhancement**
 
 Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/10887581) [Code](https://github.com/Hekang001/MSSE) (**ICASSP 2025**)
-
 </div>
 </div>
-
 
 # 📖 Educations
 - *2023.06 - now*, Phd, School of Cyber Science and Engineering, Wuhan University, Wuhan. 
@@ -124,7 +122,7 @@ Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
 **Conference Reviewer/Program Committee Member:** COLING2025, ACMMM2025, AAAI2026, ACL2026
 
-**Journal Reviewer:** Neurocomputing
+**Journal Reviewer:** Neurocomputing, Information processing and management
 
 
 
