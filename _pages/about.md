@@ -21,7 +21,7 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 two papers is accepted by ACL 2026.
+- *2026.04*: &nbsp;🎉🎉 Two papers is accepted by ACL 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing 2025.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026. 
