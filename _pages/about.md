@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a currently a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research interests lie in affective computing, large language models, and social agents. I am passionate about understanding how emotions can be recognized and processed by machines, how large language models can be utilized for various applications, and how social agents can interact intelligently in a human-like manner.
-
+I am a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research focuses on natural language processing and social computing, with particular interests in stance detection, argument mining, sentiment analysis, explainability of large language models, and social agents. I am interested in developing intelligent systems that can better understand human opinions, emotions, and reasoning processes in social contexts, and interact with users in more interpretable, natural, and socially aware ways.
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 two papers is accepted by ACL 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing 2025.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026. 
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
@@ -29,16 +30,20 @@ I am a currently a third-year Ph.D. student at the School of Cyber Science and E
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**
+Kang He, **Yuzhe Ding**, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
+[Paper](https://arxiv.org/abs/2604.12518) [Code](https://github.com/kangverse/EBMC) (**CVPR 2026**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future**
-
 Bobo Li, Xudong Han, Jiang Liu, **Yuzhe Ding**, Liqiang Jing, Zhaoqi Zhang, Jinheng Li,
 Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
-
 [Paper](https://arxiv.org/pdf/2512.19537) [Code](https://github.com/unikcc/AwesomeEventExtraction) (**Arxiv 2025**)
-
 </div>
 </div>
 
