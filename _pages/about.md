@@ -33,7 +33,9 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**
+  
 Kang He, **Yuzhe Ding**, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
+
 [Paper](https://arxiv.org/abs/2604.12518) [Code](https://github.com/kangverse/EBMC) (**CVPR 2026**)
 </div>
 </div>
@@ -41,8 +43,10 @@ Kang He, **Yuzhe Ding**, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future**
+  
 Bobo Li, Xudong Han, Jiang Liu, **Yuzhe Ding**, Liqiang Jing, Zhaoqi Zhang, Jinheng Li,
 Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
+
 [Paper](https://arxiv.org/pdf/2512.19537) [Code](https://github.com/unikcc/AwesomeEventExtraction) (**Arxiv 2025**)
 </div>
 </div>
