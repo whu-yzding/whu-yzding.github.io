@@ -131,9 +131,9 @@ Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
 # 📝 Academic Services
 
-**Conference Reviewer/Program Committee Member:** COLING2025, ACMMM2025, AAAI2026, ACL2026
+**Conference Reviewer/Program Committee Member:** COLING2025, ACMMM2025, AAAI2026, ACL2026, EMNLP2026, AAAI2027
 
-**Journal Reviewer:** Neurocomputing, Information processing and management
+**Journal Reviewer:** Neurocomputing, Information processing and management, Knowledge-Based Systems
 
 
 
