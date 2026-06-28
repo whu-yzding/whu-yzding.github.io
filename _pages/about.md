@@ -36,9 +36,20 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
   
 Li Zheng, Yanyi Luo, Hao Fei, **Yuzhe Ding**, Yujie Huang, Fei Li, Chong Teng, Donghong Ji
 
-[Paper](https://arxiv.org/abs/2604.17037) [Code]() (**ACL 2026**)
+[Paper](https://aclanthology.org/2026.acl-long.181/) [Code]() (**ACL 2026**)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026-find.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities**
+  
+Kang He, **Yuzhe Ding**, Rao Fu, Yukang Feng, Kaipeng Zhang, Yiming Liu, Fei Li, Chong Teng, Donghong Ji
+
+[Paper](https://aclanthology.org/2026.findings-acl.260/) [Code]() (**ACL 2026 Findings**)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
