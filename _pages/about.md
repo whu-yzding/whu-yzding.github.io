@@ -57,7 +57,7 @@ Kang He, **Yuzhe Ding**, Rao Fu, Yukang Feng, Kaipeng Zhang, Yiming Liu, Fei Li,
   
 Kang He, **Yuzhe Ding**, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
 
-[Paper](https://arxiv.org/abs/2604.12518) [Code](https://github.com/kangverse/EBMC) (**CVPR 2026**)
+[Paper]([https://arxiv.org/abs/2604.12518](https://openaccess.thecvf.com/content/CVPR2026/html/He_Enhance-then-Balance_Modality_Collaboration_for_Robust_Multimodal_Sentiment_Analysis_CVPR_2026_paper.html)) [Code](https://github.com/kangverse/EBMC) (**CVPR 2026**)
 </div>
 </div>
 
@@ -89,7 +89,7 @@ Li Zheng, Tengyue Song, **Yuzhe Ding**, Xiaorui Wu, Fei Li, Dongdong Xie, Jinbo 
 
 Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 
-[Paper](https://arxiv.org/abs/2511.17585) [Code]() (**AAAI 2026**)
+[Paper]([https://arxiv.org/abs/2511.17585](https://ojs.aaai.org/index.php/AAAI/article/view/40355)) [Code]() (**AAAI 2026**)
 </div>
 </div>
 
