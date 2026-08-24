@@ -21,14 +21,26 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Two papers is accepted by ACL 2026.
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
-- *2025.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Affective Computing 2025.
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026. 
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025.
-- *2024.12*: &nbsp;🎉🎉 One papers is accepted by ICASSP 2025.
+- **[Aug 2026]**: Two papers accepted by EMNLP 2026. Congrats to my co-authors!
+- **[Aug 2026]**: One paper accepted by Information Processing & Management. Congrats to my co-authors!
+- **[Apr 2026]**: Two papers accepted by ACL 2026. Congrats to my co-authors!
+- **[Jan 2026]**: One paper accepted by CVPR 2026. Congrats to my co-authors!
+- **[Dec 2025]**: One paper accepted by IEEE Transactions on Affective Computing. Congrats to my co-authors!
+- **[Nov 2025]**: One paper accepted by AAAI 2026. Congrats to my co-authors!
+- **[May 2025]**: Two papers accepted by ACL 2025. Congrats to my co-authors!
+- **[Dec 2024]**: One papers accepted by ICASSP 2025. Congrats to my co-authors!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IPM2026.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Towards continual stance detection via Dual Prototype Aware Mixture of Experts Network**
+  
+**Yuzhe Ding**, Yuxiang Peng, Kang He, Li Zheng, Bobo Li, Chong Teng, Fei Li, Donghong Ji
+
+[Paper](10.1016/j.ipm.2026.105103) [Code](https://github.com/whu-yzding/ConStance) (**IPM 2026**)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
