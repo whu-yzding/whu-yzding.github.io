@@ -21,14 +21,14 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 
 
 # 🔥 News
-- [Aug 2026]: Two papers accepted by **EMNLP 2026**. Congrats to my co-authors!
-- [Aug 2026]: One paper accepted by **Information Processing & Management**. Congrats to my co-authors!
-- [Apr 2026]: Two papers accepted by **ACL 2026**. Congrats to my co-authors!
-- [Jan 2026]: One paper accepted by **CVPR 2026**. Congrats to my co-authors!
-- [Dec 2025]: One paper accepted by **IEEE Transactions on Affective Computing**. Congrats to my co-authors!
-- [Nov 2025]: One paper accepted by **AAAI 2026**. Congrats to my co-authors!
-- [May 2025]: Two papers accepted by **ACL 2025**. Congrats to my co-authors!
-- [Dec 2024]: One papers accepted by **ICASSP 2025**. Congrats to my co-authors!
+- **[Aug 2026]**: Two papers accepted by **EMNLP 2026**. Congrats to my co-authors!
+- **[Aug 2026]**: One paper accepted by **Information Processing & Management**. Congrats to my co-authors!
+- **[Apr 2026]**: Two papers accepted by **ACL 2026**. Congrats to my co-authors!
+- **[Jan 2026]**: One paper accepted by **CVPR 2026**. Congrats to my co-authors!
+- **[Dec 2025]**: One paper accepted by **IEEE Transactions on Affective Computing**. Congrats to my co-authors!
+- **[Nov 2025]**: One paper accepted by **AAAI 2026**. Congrats to my co-authors!
+- **[May 2025]**: Two papers accepted by **ACL 2025**. Congrats to my co-authors!
+- **[Dec 2024]**: One papers accepted by **ICASSP 2025**. Congrats to my co-authors!
 
 # 📝 Publications 
 
