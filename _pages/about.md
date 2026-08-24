@@ -21,18 +21,18 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 
 
 # 🔥 News
-- **[Aug 2026]**: Two papers accepted by EMNLP 2026. Congrats to my co-authors!
-- **[Aug 2026]**: One paper accepted by Information Processing & Management. Congrats to my co-authors!
-- **[Apr 2026]**: Two papers accepted by ACL 2026. Congrats to my co-authors!
-- **[Jan 2026]**: One paper accepted by CVPR 2026. Congrats to my co-authors!
-- **[Dec 2025]**: One paper accepted by IEEE Transactions on Affective Computing. Congrats to my co-authors!
-- **[Nov 2025]**: One paper accepted by AAAI 2026. Congrats to my co-authors!
-- **[May 2025]**: Two papers accepted by ACL 2025. Congrats to my co-authors!
-- **[Dec 2024]**: One papers accepted by ICASSP 2025. Congrats to my co-authors!
+- [Aug 2026]: Two papers accepted by **EMNLP 2026**. Congrats to my co-authors!
+- [Aug 2026]: One paper accepted by **Information Processing & Management**. Congrats to my co-authors!
+- [Apr 2026]: Two papers accepted by **ACL 2026**. Congrats to my co-authors!
+- [Jan 2026]: One paper accepted by **CVPR 2026**. Congrats to my co-authors!
+- [Dec 2025]: One paper accepted by **IEEE Transactions on Affective Computing**. Congrats to my co-authors!
+- [Nov 2025]: One paper accepted by **AAAI 2026**. Congrats to my co-authors!
+- [May 2025]: Two papers accepted by **ACL 2025**. Congrats to my co-authors!
+- [Dec 2024]: One papers accepted by **ICASSP 2025**. Congrats to my co-authors!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/IPM2026.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IPM2026.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Towards continual stance detection via Dual Prototype Aware Mixture of Experts Network**
   
@@ -42,7 +42,7 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Dynamic Emotion and Personality Profiling for Multimodal Deception Detection**
   
@@ -52,7 +52,7 @@ Li Zheng, Yanyi Luo, Hao Fei, **Yuzhe Ding**, Yujie Huang, Fei Li, Chong Teng, D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026-find.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL2026-find.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Uncertainty-Calibrated Elastic Alignment for Multimodal Sentiment Analysis with Missing Modalities**
   
@@ -63,7 +63,7 @@ Kang He, **Yuzhe Ding**, Rao Fu, Yukang Feng, Kaipeng Zhang, Yiming Liu, Fei Li,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CVPR2026.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**
   
@@ -73,7 +73,7 @@ Kang He, **Yuzhe Ding**, Xinrong Wang, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv2512.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future**
   
@@ -85,7 +85,7 @@ Xinya Du, Fei Li, Meishan Zhang, Min Zhang, Aixin Sun, Philip S. Yu, Hao Fei
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TAFFC2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TAFFC2025.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Improving Emotion and Intent Understanding in Multimodal Conversations with Progressive Interaction**
 
@@ -95,7 +95,7 @@ Li Zheng, Tengyue Song, **Yuzhe Ding**, Xiaorui Wu, Fei Li, Dongdong Xie, Jinbo 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI-2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AAAI-2026.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **PaSE: Prototype-aligned Calibration and Shapley-based Equilibrium for Multimodal Sentiment Analysis**
 
@@ -105,7 +105,7 @@ Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Zero-Shot Conversational Stance Detection: Dataset and Approaches**
 
@@ -115,7 +115,7 @@ Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL-DALR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL-DALR.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DALR: Dual-level Alignment Learning for Multimodal Sentence Representation Learning**
 
@@ -126,7 +126,7 @@ Kang He, **Yuzhe Ding**, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICASSP_HDC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICASSP_HDC.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Harnessing Dimensional Contrast and Information Compensation for Sentence Embedding Enhancement**
 
