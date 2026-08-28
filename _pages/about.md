@@ -32,6 +32,16 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/dyz-EMNLP2026.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions**
+  
+**Yuzhe Ding**, Kang He, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji
+
+[Paper]() [Code](https://github.com/whu-yzding/MMDS-Bench) (**EMNLP 2026**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/IPM2026.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Towards continual stance detection via Dual Prototype Aware Mixture of Experts Network**
@@ -39,6 +49,26 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 **Yuzhe Ding**, Yuxiang Peng, Kang He, Li Zheng, Bobo Li, Chong Teng, Fei Li, Donghong Ji
 
 [Paper](10.1016/j.ipm.2026.105103) [Code](https://github.com/whu-yzding/ConStance) (**IPM 2026**)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Zero-Shot Conversational Stance Detection: Dataset and Approaches**
+
+**Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
+
+[Paper](https://aclanthology.org/2025.findings-acl.168.pdf) [Code](https://github.com/whu-yzding/ZS-CSD) (**ACL 2025 Findings**)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EMNLP2026find.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+**ReCite: Agentic Reasoning for Faithful Citation**
+  
+Yuyang Huang, Bobo Li, JiaJia Song, **Yuzhe Ding**, Chong Teng, Fei Li, Donghong Ji
+
+[Paper]() [Code]() (**EMNLP 2026 Findings**)
 </div>
 </div>
 
@@ -105,15 +135,7 @@ Kang He, Boyu Chen, **Yuzhe Ding**, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL_ZS-CSD.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Zero-Shot Conversational Stance Detection: Dataset and Approaches**
 
-**Yuzhe Ding**, Kang He, Bobo Li, Li Zheng, Haijun He, Fei Li, Chong Teng, Donghong Ji
-
-[Paper](https://aclanthology.org/2025.findings-acl.168.pdf) [Code](https://github.com/whu-yzding/ZS-CSD) (**ACL 2025 Findings**)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ACL-DALR.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
