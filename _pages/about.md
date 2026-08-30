@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research focuses on natural language processing and social computing, with particular interests in stance detection, argument mining, sentiment analysis, explainability of large language models, and social agents. I am interested in developing intelligent systems that can better understand human opinions, emotions, and reasoning processes in social contexts, and interact with users in more interpretable, natural, and socially aware ways.
+I am a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. [Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and Prof. [Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ). My research focuses on natural language processing and social computing, with particular interests in stance detection, argument mining, sentiment analysis, explainability of large language models, and social agents. I aim to develop socially intelligent and human-like agent systems with capabilities in affective reasoning, argumentative reasoning, continual learning, and multi-agent interaction. My goal is to enable these agents to better understand human opinions, emotions, and reasoning in social contexts, interact with users in more interpretable, natural, and efficient ways, and effectively accomplish complex real-world tasks.
 
 
 # 🔥 News
@@ -28,7 +28,7 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
 - **[Dec 2025]**: One paper accepted by **IEEE Transactions on Affective Computing**. Congrats to my co-authors!
 - **[Nov 2025]**: One paper accepted by **AAAI 2026**. Congrats to my co-authors!
 - **[May 2025]**: Two papers accepted by **ACL 2025**. Congrats to my co-authors!
-- **[Dec 2024]**: One papers accepted by **ICASSP 2025**. Congrats to my co-authors!
+- **[Dec 2024]**: One paper accepted by **ICASSP 2025**. Congrats to my co-authors!
 
 # 📝 Publications 
 
@@ -48,7 +48,7 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
   
 **Yuzhe Ding**, Yuxiang Peng, Kang He, Li Zheng, Bobo Li, Chong Teng, Fei Li, Donghong Ji
 
-[Paper](10.1016/j.ipm.2026.105103) [Code](https://github.com/whu-yzding/ConStance) (**IPM 2026**)
+[Paper](https://doi.org/10.1016/j.ipm.2026.105103) [Code](https://github.com/whu-yzding/ConStance) (**IPM 2026**)
 </div>
 </div>
 
@@ -158,16 +158,27 @@ Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 </div>
 </div>
 
-# 📖 Educations
-- *2023.06 - now*, Phd, School of Cyber Science and Engineering, Wuhan University, Wuhan. 
+# 📖 Education
+- *2023.06 - Present*, Ph.D., School of Cyber Science and Engineering, Wuhan University, Wuhan.
 - *2021.09 - 2023.06*, Master, School of Cyber Science and Engineering, Wuhan University, Wuhan.
-- *2017.09 - 2021.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan Univeristy, Wuhan.
+- *2017.09 - 2021.06*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, Wuhan.
 
 # 📝 Academic Services
 
-**Conference Reviewer/Program Committee Member:** COLING2025, ACMMM2025, AAAI2026, ACL2026, EMNLP2026, AAAI2027
+**Conference Reviewer/Program Committee Member:**  
+ACL: 2026  
+EMNLP: 2026  
+AAAI: 2026, 2027
+ACM MM: 2025, 2026
+COLING: 2025
+CIKM: 2026
+NLPCC: 2026
 
-**Journal Reviewer:** Neurocomputing, Information processing and management, Knowledge-Based Systems
+**Journal Reviewer:** 
+Information processing & management
+Knowledge-Based Systems
+Neurocomputing
+
 
 
 
