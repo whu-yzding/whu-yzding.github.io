@@ -167,26 +167,27 @@ Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 
 **Conference Reviewer/Program Committee Member:**  
 
-ACL: 2026
+&nbsp;&nbsp **ACL**: 2026
 
-EMNLP: 2026;
+&nbsp;&nbsp **EMNLP**: 2026
 
-AAAI: 2026, 2027;
+&nbsp;&nbsp **AAAI**: 2026,2027
 
-ACM MM: 2025, 2026;
+&nbsp;&nbsp **ACM MM**: 2025,2026
 
-COLING: 2025;
+&nbsp;&nbsp **COLING**: 2025
 
-CIKM: 2026;
+&nbsp;&nbsp **CIKM**: 2026
 
-NLPCC: 2026
+&nbsp;&nbsp **NLPCC**: 2026
 
 **Journal Reviewer:** 
 
-Information processing & management
+&nbsp;&nbsp **Information processing & management**
 
-Knowledge-Based Systems
-Neurocomputing
+&nbsp;&nbsp **Knowledge-Based Systems**
+
+&nbsp;&nbsp **Neurocomputing**
 
 
 
