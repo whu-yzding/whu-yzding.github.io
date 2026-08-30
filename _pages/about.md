@@ -166,12 +166,12 @@ Kang He, **Yuzhe Ding**, Bobo Li, Haining Wang, Fei Li, Chong Teng, Donghong Ji
 # 📝 Academic Services
 
 **Conference Reviewer/Program Committee Member:**  
-ACL: 2026  
-EMNLP: 2026  
-AAAI: 2026, 2027
-ACM MM: 2025, 2026
-COLING: 2025
-CIKM: 2026
+ACL: 2026;
+EMNLP: 2026;
+AAAI: 2026, 2027;
+ACM MM: 2025, 2026;
+COLING: 2025;
+CIKM: 2026;
 NLPCC: 2026
 
 **Journal Reviewer:** 
