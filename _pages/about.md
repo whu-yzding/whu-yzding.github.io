@@ -38,7 +38,7 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
   
 **Yuzhe Ding**, Kang He, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji
 
-[Paper]() [Code](https://github.com/whu-yzding/MMDS-Bench) (**EMNLP 2026**)
+[Paper](https://arxiv.org/pdf/2608.30903) [Code](https://github.com/whu-yzding/MMDS-Bench) (**EMNLP 2026**)
 </div>
 </div>
 
@@ -68,7 +68,7 @@ I am a third-year Ph.D. student at the School of Cyber Science and Engineering, 
   
 Yuyang Huang, Bobo Li, JiaJia Song, **Yuzhe Ding**, Chong Teng, Fei Li, Donghong Ji
 
-[Paper]() [Code]() (**EMNLP 2026 Findings**)
+[Paper]() [Code](https://github.com/Hyy279/ReCite) (**EMNLP 2026 Findings**)
 </div>
 </div>
 
