@@ -32,6 +32,8 @@ redirect_from:
     </div>
   </div>
   <div class="news-list">
+    <article class="news-item"><time datetime="2026-09">Sep 2026</time><p>One paper accepted by <strong>NeurIPS 2026</strong>.</p><span class="news-dot"></span></article>
+    <article class="news-item"><time datetime="2026-09">Sep 2026</time><p>One paper accepted by <strong>IEEE Transactions on Affective Computing</strong>.</p><span class="news-dot"></span></article>
     <article class="news-item news-item--featured"><time datetime="2026-08">Aug 2026</time><p>Two papers accepted by <strong>EMNLP 2026</strong>.</p><span class="news-dot"></span></article>
     <article class="news-item"><time datetime="2026-08">Aug 2026</time><p>One paper accepted by <strong>Information Processing &amp; Management</strong>.</p><span class="news-dot"></span></article>
     <article class="news-item"><time datetime="2026-04">Apr 2026</time><p>Two papers accepted by <strong>ACL 2026</strong>.</p><span class="news-dot"></span></article>
