@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Yuzhe Ding"
-description              : ""
-# repository               : "RayeRen/acad-homepage.github.io"
+description              : "Ph.D. researcher in natural language processing, multimodal intelligence, and social computing."
+url                      : "https://whu-yzding.github.io"
+repository               : "whu-yzding/whu-yzding.github.io"
 # google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +23,8 @@ description              : ""
 # Site Author
 author:
   name             : "Yuzhe Ding"
-  avatar           : "images/dyz.jpg"
-  bio              : "Wuhan University"
+  avatar           : "images/dyz.JPG"
+  bio              : "Ph.D. Researcher · NLP, Multimodal Intelligence & Social Computing"
   location         : "Wuhan, China"
   # employer         :
   # pubmed           : 
@@ -37,7 +38,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  # github           : # e.g., "github username"
+  github           : "whu-yzding"
   # google_plus      :
   # keybase          :
   # instagram        :
