@@ -54,7 +54,6 @@ redirect_from:
         <h2>Publications</h2>
       </div>
     </div>
-    <p class="section-note">* denotes equal contribution</p>
   </div>
 
   <article class="paper-box">
