@@ -97,7 +97,7 @@ redirect_from:
   <article class="paper-box">
     <div class="paper-box-image"><img src="{{ '/images/ACL2026.jpg' | relative_url }}" alt="Dynamic Emotion and Personality Profiling paper preview" loading="lazy"></div>
     <div class="paper-box-text">
-      <div class="paper-meta"><span class="venue">ACL 2026</span><span>Collaboration</span></div>
+      <div class="paper-meta"><span class="venue">ACL 2026 Oral</span><span>Collaboration</span></div>
       <h3>Dynamic Emotion and Personality Profiling for Multimodal Deception Detection</h3>
       <p class="authors">Li Zheng, Yanyi Luo, Hao Fei, <strong>Yuzhe Ding</strong>, Yujie Huang, Fei Li, Chong Teng, Donghong Ji</p>
       <div class="paper-actions"><a href="https://aclanthology.org/2026.acl-long.181/">Paper ↗</a></div>
