@@ -59,7 +59,7 @@ redirect_from:
   <article class="paper-box">
     <div class="paper-box-image"><img src="{{ '/images/dyz-EMNLP2026.jpg' | relative_url }}" alt="MMDS-Bench paper preview" loading="lazy"></div>
     <div class="paper-box-text">
-      <div class="paper-meta"><span class="venue">EMNLP 2026</span><span>First author</span></div>
+      <div class="paper-meta"><span class="venue">EMNLP 2026 Oral</span><span>First author</span></div>
       <h3>MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions</h3>
       <p class="authors"><strong>Yuzhe Ding</strong>, Kang He, Li Zheng, Shengwu Zheng, Teng Shi, Fei Li, Chong Teng, Donghong Ji</p>
       <div class="paper-actions"><a href="https://arxiv.org/pdf/2608.30903">Paper ↗</a><a href="https://github.com/whu-yzding/MMDS-Bench">Code ↗</a></div>
