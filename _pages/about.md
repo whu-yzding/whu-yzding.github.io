@@ -17,9 +17,7 @@ redirect_from:
     </div>
   </div>
   <div class="about-text">
-    <p>I am a third-year <strong>Ph.D. student</strong> at the School of Cyber Science and Engineering, <strong>Wuhan University</strong>, advised by Prof. <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a> and Prof. <a href="https://scholar.google.com/citations?user=AoMmysMAAAAJ">Fei Li</a>.</p>
-    <p>My research lies at the intersection of <strong>natural language processing</strong>, <strong>multimodal intelligence</strong>, and <strong>social computing</strong>. I focus on understanding human opinions, emotions, and reasoning through <strong>stance detection</strong>, <strong>argument mining</strong>, <strong>sentiment analysis</strong>, <strong>multimodal social understanding</strong>, and <strong>LLM interpretability</strong>.</p>
-    <p>Looking forward, I am particularly interested in <strong>self-evolving agents</strong>, <strong>social agents and simulation</strong>, and <strong>socially embodied intelligence</strong>—with the goal of building agents that can continuously learn, reason, adapt, and collaborate in open and dynamic environments.</p>
+    <p>I am a third-year Ph.D. student at the School of Cyber Science and Engineering, Wuhan University, advised by Prof. <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Donghong Ji</a> and Prof. <a href="https://scholar.google.com/citations?user=AoMmysMAAAAJ">Fei Li</a>. My research lies at the intersection of natural language processing, multimodal intelligence, and social computing. I focus on understanding human opinions, emotions, and reasoning through stance detection, argument mining, sentiment analysis, multimodal social understanding, and LLM interpretability. Looking forward, I am particularly interested in self-evolving agents, social agents and simulation, and socially embodied intelligence—with the goal of building agents that can continuously learn, reason, adapt, and collaborate in open and dynamic environments.
   </div>
 </section>
 
