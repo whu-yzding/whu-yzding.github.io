@@ -202,7 +202,7 @@ redirect_from:
     <article>
       <span class="service-icon" aria-hidden="true">C</span>
       <h3>Conference reviewer / PC</h3>
-      <ul><li><strong>ACL</strong><span>2026</span></li><li><strong>EMNLP</strong><span>2026</span></li><li><strong>AAAI</strong><span>2026, 2027</span></li><li><strong>ACM MM</strong><span>2025, 2026</span></li><li><strong>COLING</strong><span>2025</span></li><li><strong>CIKM</strong><span>2026</span></li><li><strong>NLPCC</strong><span>2026</span></li></ul>
+      <ul><li><strong>ACL</strong><span>2026</span></li><li><strong>EMNLP</strong><span>2026</span></li><li><strong>AAAI</strong><span>2026, 2027</span></li><li><strong>ICLR</strong><span>2027</span></li><li><strong>ACM MM</strong><span>2025, 2026</span></li><li><strong>COLING</strong><span>2025</span></li><li><strong>CIKM</strong><span>2026</span></li><li><strong>NLPCC</strong><span>2026</span></li></ul>
     </article>
     <article>
       <span class="service-icon" aria-hidden="true">J</span>
