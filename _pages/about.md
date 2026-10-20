@@ -213,7 +213,15 @@ redirect_from:
 </section>
 
 <footer class="site-signoff">
-  <p>Interested in socially intelligent and adaptive agents?</p>
-  <a href="mailto:yuzheding@whu.edu.cn">Let's start a conversation <span aria-hidden="true">→</span></a>
+  <div class="site-signoff__content">
+    <p>Interested in socially intelligent and adaptive agents?</p>
+    <a href="mailto:yuzheding@whu.edu.cn">Let's start a conversation <span aria-hidden="true">→</span></a>
+  </div>
+  <figure class="site-signoff__wechat">
+    <a href="{{ '/images/wechat-qr.jpg' | relative_url }}" aria-label="View full-size WeChat QR code">
+      <img src="{{ '/images/wechat-qr.jpg' | relative_url }}" alt="Scan to connect with Yuzhe Ding on WeChat" width="693" height="883" loading="lazy">
+    </a>
+    <figcaption>Connect on WeChat</figcaption>
+  </figure>
   <small>© {{ 'now' | date: "%Y" }} Yuzhe Ding · Built with Jekyll</small>
 </footer>
