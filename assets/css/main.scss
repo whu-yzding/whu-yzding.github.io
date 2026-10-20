@@ -1047,6 +1047,10 @@ a {
 }
 
 .site-signoff {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 160px;
+  gap: 0 2rem;
+  align-items: center;
   margin-top: 6.5rem;
   padding: 3.4rem clamp(1.5rem, 5vw, 3.5rem);
   color: #fff;
@@ -1064,7 +1068,7 @@ a {
   text-transform: uppercase;
 }
 
-.page__content .site-signoff > a {
+.page__content .site-signoff__content > a {
   display: inline-flex;
   gap: 0.75rem;
   align-items: center;
@@ -1076,8 +1080,51 @@ a {
   letter-spacing: -0.035em;
 }
 
-.page__content .site-signoff > a:hover {
+.page__content .site-signoff__content > a:hover {
   color: #8be1d6;
+}
+
+.site-signoff__wechat {
+  grid-column: 2;
+  grid-row: 1 / 3;
+  margin: 0;
+  text-align: center;
+}
+
+.site-signoff__wechat a {
+  display: block;
+}
+
+.page__content .site-signoff__wechat img {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 10px;
+}
+
+.site-signoff__wechat figcaption {
+  margin-top: 0.6rem;
+  color: #8fa5bf;
+  font-size: 0.75rem;
+}
+
+@media (max-width: 680px) {
+  .site-signoff {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+
+  .site-signoff__wechat {
+    grid-column: 1;
+    grid-row: auto;
+    justify-self: start;
+  }
+
+  .page__content .site-signoff small {
+    margin-top: 0;
+  }
 }
 
 .site-signoff small {
